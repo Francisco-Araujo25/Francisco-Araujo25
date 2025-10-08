@@ -1,14 +1,14 @@
-## 👋 Olá, eu sou o Francisco Araujo  
+## 👋 Olá, eu sou o Francisco
 
 **`⚙️ Desenvolvedor FullStack`**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=be55fa&animation=twinkling&color=0d1117"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=be55fa&animation=twinkling&color=0d1117](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e5c430&size=30&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+🌍;Sou+Francisco+Araujo;Um+apaixonado+por+tecnologia+e+inovação;Construindo+o+futuro+do+comércio+local+🚀;Bem-vindo+ao+meu+universo+de+código!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e5c430&size=30&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+🌍;Sou+Francisco+Araujo;Um+apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+universo+de+código!)](https://git.io/typing-svg)
 
 ---
 
-### 🤖 Linguagens e Tecnologias  <img align="left" alt="Francisco-Gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/>
+### Linguagens e Tecnologias  <img align="left" alt="Francisco-Gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/>
 
 <div align="left" style="display:inline_block"><br>
 
