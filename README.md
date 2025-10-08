@@ -42,7 +42,7 @@
 Sou um criador de soluções digitais que unem **tecnologia, cultura e propósito**.  
 Transformo ideias em código, e código em impacto.  
 
-Atualmente sou **OFERTAR** — uma startup que conecta o comércio local — fortalece a economia regional.  
+Atualmente sou cofundador da **OFERTAR** — uma startup que conecta o comércio local — fortalece a economia regional.  
 
 ---
 
