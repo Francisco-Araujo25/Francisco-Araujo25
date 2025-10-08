@@ -8,14 +8,8 @@
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Francisco-Araujo25&show_icons=true&count_private=true&hide_border=true&title_color=e5c430&icon_color=BE55FA&text_color=27B3CD&bg_color=0d1117" alt="Francisco github stats" /> 
-</div>
+### 🤖 Linguagens e Tecnologias  <img align="left" alt="Francisco gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/>
 
----
-
-### 🤖 Linguagens e Tecnologias  
-<img align="left" alt="Francisco gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/>
 
 <div align="left" style="display:inline_block"><br>
 
