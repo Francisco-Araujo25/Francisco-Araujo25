@@ -60,7 +60,6 @@ Transformo ideias em código, e código em impacto.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Araujo25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br><br><br><br><br>
 
 ---
 
