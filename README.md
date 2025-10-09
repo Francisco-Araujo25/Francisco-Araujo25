@@ -1,8 +1,10 @@
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+
+
 ## 👋 Olá, eu sou o Francisco
 
 **`⚙️ Desenvolvedor FullStack`**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=be55fa&animation=twinkling&color=0d1117](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e5c430&size=30&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+🌍;Sou+Francisco+Araujo;Um+apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+universo+de+código!)](https://git.io/typing-svg)
 
@@ -30,8 +32,9 @@
 
   <!-- Outras -->
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/><br><br>
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><br><br>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="GitHub" height="30" width="40" src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/><br><br>
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> <br><br>
 </div>
 
 ---
@@ -40,8 +43,6 @@
 
 Sou um criador de soluções digitais que unem **tecnologia, cultura e propósito**.  
 Transformo ideias em código, e código em impacto.  
-
-Atualmente sou cofundador da **OFERTAR** — uma startup que conecta o comércio local — fortalece a economia regional.  
 
 ---
 
@@ -62,14 +63,15 @@ Atualmente sou cofundador da **OFERTAR** — uma startup que conecta o comércio
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Araujo25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br><br>
+<br>
+
 ---
 
 ### 🌐 Conecte-se comigo  
 
 <a href="https://www.linkedin.com/in/franciscoaraujo25/" target="_blank"><img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-<a href="https://github.com/Francisco-Araujo25" target="_blank"><img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+<a href="https://www.instagram.com/fransciscowy/" target="_blank"><img align="center" alt="Instagram" height="30" width="40" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"/></a>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d1117"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
