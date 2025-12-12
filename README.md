@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e5c430&size=30&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+🌍;Sou+Francisco+Araujo;Um+apaixonado+por+tecnologia+e+inovação;Bem-vindo+ao+meu+universo+de+código!)](https://git.io/typing-svg)
 
 --- 
-<div><img align="left" alt="Francisco-Gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/></div>
-###   Linguagens e Tecnologias     
+
+###  <img align="left" alt="Francisco-Gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/> Linguagens e Tecnologias     
 <br>
 <div align="left" style="display:inline_block"><br>
 
