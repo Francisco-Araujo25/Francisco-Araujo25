@@ -9,7 +9,7 @@
 
 --- 
 
-###  <img align="left" alt="Francisco-Gif" height="50" width="50" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif"/> Linguagens e Tecnologias     
+### Linguagens e Tecnologias     
 <br>
 <div align="left" style="display:inline_block"><br>
 
