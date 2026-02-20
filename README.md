@@ -48,19 +48,14 @@ Transformo ideias em código, e código em impacto.
 
 ### 📊 Estatísticas  
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src=https://github-readme-stats.vercel.app/api?Francisco-Araujo25=anuraghazra&show_icons=true&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api?username=Francisco-Araujo25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
   <img 
-    align="left" 
-    alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Araujo25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Araujo25&layout=compact&langs_count=8&theme=tokyonight" 
   />
 </p>
 
