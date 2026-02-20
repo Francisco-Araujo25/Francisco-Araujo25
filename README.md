@@ -46,14 +46,4 @@ Transformo ideias em código, e código em impacto.
 
 ---
 
-### 📊 Estatísticas  
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Francisco-Araujo25&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Francisco-Araujo25&layout=compact&theme=transparent&hide_border=true&langs_count=9&custom_title=Tecnologias)
-
----
-
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
