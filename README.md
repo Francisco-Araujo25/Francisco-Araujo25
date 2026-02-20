@@ -3,7 +3,7 @@
 ## 👋 Olá, eu sou o Francisco
 
 Portfólio:
-https://bit.ly/bricklabs
+https://bricklabs-one.vercel.app/
 
 **`⚙️ Desenvolvedor FullStack`**
 
@@ -54,7 +54,7 @@ Transformo ideias em código, e código em impacto.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Francisco-Araujo25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src=https://github-readme-stats.vercel.app/api?Francisco-Araujo25=anuraghazra&show_icons=true&theme=transparent" 
   />
   <img 
     align="left" 
