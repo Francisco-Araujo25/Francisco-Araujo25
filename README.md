@@ -51,11 +51,11 @@ Transformo ideias em código, e código em impacto.
 <p align="left">
   <img 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Francisco-Araujo25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Francisco-Araujo25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
   />
   <img 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Araujo25&layout=compact&langs_count=8&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Araujo25&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" 
   />
 </p>
 
